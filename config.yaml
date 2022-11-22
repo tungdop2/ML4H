@@ -1,0 +1,8 @@
+underthesea:
+    enable: true
+
+phobert_pretrain:
+    enable: true
+    model: wonrax/phobert-base-vietnamese-sentiment
+    tokenizer: wonrax/phobert-base-vietnamese-sentiment
+    rdrsegmenter: /home/duongquangtung/Tungggg/ML4H/VnCoreNLP
